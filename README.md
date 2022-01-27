@@ -1,2 +1,3 @@
-NO CALIFICAR TODAVÍA
-repositorio placeholder
+Desafío terminado
+
+Modelo de datos con entidades: usuarios, comentarios y posts
